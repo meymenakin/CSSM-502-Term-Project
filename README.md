@@ -19,3 +19,4 @@ Below is a rundown for the files in the repository:
   11. finaldata.xlsx - Same final data in a different format.
   12. Part1 - Data Prep and Panel OLS.ipynb - The first code part. Involves scraping song data, pulling valence scores from Spotify's Public API, merging and preparing final dataset, and running Panel OLS regressions.
   13. Part 2 - Bayesian & Updating.ipynb - The second code part. Involves running Bayesian analysis. Initially with no prior. Then with normally distributed priors, uniformly distributed priors, and triangularly distributed priors.
+  14. cssm502 makin16 prelim presentation.pptx - A presentation of the preliminary results.
