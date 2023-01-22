@@ -7,7 +7,7 @@ It is created by Mahmut Eymen Akın and is submitted to Mehmet Fuat Kına.
 Below is a rundown for the files in the repository:
 
   1. CSSM 502 Project makin16.tex - This is the .tex file where the project's report was transcribed.
-  2. CSSM 502 Project makin16.tex - This is the output of compiling the .tex file into a .pdf.
+  2. CSSM 502 Project makin16.pdf - This is the output of compiling the .tex file into a .pdf.
   3. convergence.png - This is a figure used in the .tex file and therefore was added. It is a summary version of Part 2 output.
   4. pipeline.png -  This is a figure used in the .tex file and therefore was added. It describes the project's pipeline.
   5. song.csv - This is the output of initial scraping. It contains the song names, countries, weeks, artist names, etc.
