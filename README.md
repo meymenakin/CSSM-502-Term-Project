@@ -2,7 +2,7 @@
 ‘This Music Crept by Me Upon the Waters’ : the Effect of Economic Activity on Listening Habits
 
 This project is conducted for the 'CSSM 502: Advance Data Analysis in Python' course at Koç University.
-Created by: Mahmut Eymen Akın 
+Created by: Mahmut Eymen Akın. 
 Submitted to: Mehmet Fuat Kına.
 
 Below is a rundown for the files in the repository. The core files are (1)-(5):
